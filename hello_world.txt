@@ -1,0 +1,1 @@
+Hello world, this is my first attempt at using Git alongside GitHub to independently pull, stage, commit, and push my first repository. Up until now, I've only done so through the CS50x course, which automates much of the process for you.
